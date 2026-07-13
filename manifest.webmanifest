@@ -1,0 +1,9 @@
+{
+  "name": "Tagging Details Sheet",
+  "short_name": "Tagging Sheet",
+  "description": "Capture images, extract their text, and keep it searchable.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#1c3f3b"
+}
